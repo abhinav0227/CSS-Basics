@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+}
+
+.heading {
+    color: blue;
+    background-color: red;
+    font: bold;
+}
+
+.heading2 {
+    color: orange;
+    font: italic;
+}
+
+h2 {
+    color: brown;
+    font-style: oblique;
+}
+
+h2 {
+    color: blue;
+}
+
+#special {
+    color: black;
+    background-color: red;
+    border-style: dashed solid solid;
+    border-width: 10px 15px 10px 10px;
+    border-color: blue beige;
+}
+
+body {
+    background-color: violet;
+    border: 2px solid red;
+}
+
+#specific {
+    color: beige;
+    font-size: large;
+}
