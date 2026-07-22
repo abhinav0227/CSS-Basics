@@ -1,0 +1,26 @@
+body {
+
+    background-color: rgb(244, 244, 244);
+
+    font-family: Arial, sans-serif;
+
+    margin: 20px;
+
+}
+
+.main-heading {
+
+    color: red;
+
+    font-size: larger;
+
+    text-align: center;
+
+}
+
+.subtitle {
+
+    color: orange;
+
+    text-align: center;
+}
