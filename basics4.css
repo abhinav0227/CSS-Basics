@@ -24,3 +24,19 @@ body {
 
     text-align: center;
 }
+
+.sec{
+
+    color: brown;
+
+    background-color: aqua;
+}
+
+.internal-example{
+
+    color: pink;
+
+    background-color:plum;
+
+    font-style: inherit;
+}
