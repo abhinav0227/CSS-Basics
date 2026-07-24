@@ -40,3 +40,30 @@ body {
 
     font-style: inherit;
 }
+
+.external-example{
+
+    color: cornflowerblue;
+
+    font-style: unset;
+}
+
+.color-example{
+
+    background-color: chocolate;
+}
+
+.green-text{
+
+    color: green;
+}
+
+.purple-text{
+
+    color: purple;
+}
+
+.grey-text{
+
+    color: grey;
+}
