@@ -104,3 +104,18 @@ body {
 
     text-decoration: wavy;
 }
+.px-example{
+
+    font-size: 25px;
+}
+.percent-example{
+
+    width: 25%;
+}
+.em-example{
+    font-size: 5em;
+}
+.rem-example{
+
+    font-size: 5rem;
+}
