@@ -92,3 +92,15 @@ body {
 
     text-align: right;
 }
+.underline-text{
+
+    text-decoration: underline;
+}
+.line-through-text{
+
+    text-decoration: line-through;
+}
+.no-decoration-link{
+
+    text-decoration: wavy;
+}
