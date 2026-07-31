@@ -50,5 +50,16 @@ body {
     margin: 25px;
 
     padding: 15px;
-    
+
+}
+
+.margin-box {
+
+    background-color: bisque;
+
+    margin: 50px;
+
+    padding: 25px;
+
+    border: 7px solid black;
 }
