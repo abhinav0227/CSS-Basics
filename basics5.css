@@ -63,3 +63,45 @@ body {
 
     border: 7px solid black;
 }
+
+.solid-border {
+
+    width: 100px;
+
+    margin-top: 50px;
+
+    margin-bottom: 50px;
+
+    padding: 50px;
+
+    border: 10px solid green;
+
+}
+
+.dashed-border {
+
+    width: 100px;
+
+    margin-top: 50px;
+
+    margin-bottom: 50px;
+
+    padding: 50px;
+
+    border: 10px dashed violet;
+
+}
+
+.rounded-border {
+
+    width: 100px;
+
+    margin-top: 50px;
+
+    margin-bottom: 50px;
+
+    padding: 50px;
+
+    border: 10px dashed orangered;
+
+}
