@@ -102,6 +102,26 @@ body {
 
     padding: 50px;
 
-    border: 10px dashed orangered;
+    border: 10px solid orangered;
+
+    border-radius: 15px;
+
+}
+
+.size-box {
+
+    width: 200px;
+
+    height: 100px;
+
+    background-color: aqua;
+
+    padding: 50px;
+
+    border: 10px black;
+
+    margin: 50px;
+
+    border-style: groove;
 
 }
