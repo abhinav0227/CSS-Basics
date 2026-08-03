@@ -145,3 +145,14 @@ body {
 
     text-shadow: 2px 2px 5px blue;
 }
+
+.radius-box {
+
+    width: 400px;
+
+    padding: 40px;
+
+    background-color: orangered;
+
+    border-radius: 20px;
+}
