@@ -169,3 +169,18 @@ body {
 
     background-color: lavender;
 }
+
+.overflow-box {
+
+    width: 200px;
+
+    height: 100px;
+
+    padding: 20px;
+
+    background-color: aliceblue;
+
+    border: 5px solid black;
+
+    overflow: auto;
+}
