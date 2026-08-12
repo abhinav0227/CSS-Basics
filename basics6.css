@@ -138,3 +138,48 @@ body {
 
 }
 
+.zindex-container {
+
+    position: relative;
+
+    height: 250px;
+
+}
+
+.red-box {
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: red;
+
+    top: 20px;
+
+    left: 20px;
+
+    z-index: 1;
+
+    position: absolute;
+
+}
+
+.blue-box {
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: blue;
+
+    top: 80px;
+
+    left: 80px;
+
+    position: absolute;
+
+    z-index: 2;
+
+    color: white;
+
+}
