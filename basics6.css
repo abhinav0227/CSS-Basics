@@ -123,3 +123,18 @@ body {
     border: none;
 
 }
+
+.sticky-box {
+
+    position: sticky;
+
+    padding: 20px;
+
+    top: 80px;
+
+    color: blanchedalmond;
+
+    background-color: purple;
+
+}
+
